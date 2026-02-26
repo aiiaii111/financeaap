@@ -1,4 +1,4 @@
 pandas
 yfinance
-altair
 streamlit
+altair<5
